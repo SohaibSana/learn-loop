@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.learn_loop_app",
+            "sha256_cert_fingerprints": [
+                "60:F5:DB:8F:3B:2A:78:58:6C:2F:1F:CD:02:0E:1A:4B:BF:28:FA:CF:FE:D4:5A:4F:3F:DB:E4:CA:EB:7C:15:7A"
+            ]
+        }
+    }
+]
